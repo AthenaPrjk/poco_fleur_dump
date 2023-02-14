@@ -1,0 +1,19 @@
+## fleur-user 12 SP1A.210812.016 V13.0.7.0.SKEMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6781
+- Codename: fleur
+- Brand: POCO
+- Flavor: lineage_fleur-userdebug
+- Release Version: 13
+- Kernel Version: 4.14.186
+- Id: TQ1A.230105.001.A2
+- Incremental: eng.hime.20230212.134821
+- Tags: test-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Redmi/fleur/fleur:12/SP1A.210812.016/V13.0.7.0.SKEMIXM:user/release-keys
+- OTA version: 
+- Branch: fleur-user-12-SP1A.210812.016-V13.0.7.0.SKEMIXM-release-keys
+- Repo: poco_fleur_dump
